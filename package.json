@@ -1,6 +1,6 @@
 {
   "name": "rootrequire",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "npm install --save rootrequire # then `var root = require('rootrequire'), myLib = require(root + 'path/to/lib.js');`",
   "main": "index.js",
   "scripts": {
