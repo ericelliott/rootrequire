@@ -1,0 +1,27 @@
+{
+  "name": "rootrequire",
+  "version": "1.0.0",
+  "description": "npm install --save rootrequire # then `var root = require('rootrequire'), myLib = require(root + 'path/to/lib.js');`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ericelliott/rootrequire.git"
+  },
+  "keywords": [
+    "require",
+    "root",
+    "project",
+    "directory",
+    "dir",
+    "path"
+  ],
+  "author": "Eric Elliott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericelliott/rootrequire/issues"
+  },
+  "homepage": "https://github.com/ericelliott/rootrequire"
+}
