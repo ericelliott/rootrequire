@@ -9,7 +9,7 @@ Require files relative to your project root. Why?
 
 ## Learn JavaScript with Eric Elliott
 
-This was written for the ["Learn JavaScript with Eric Elliott](https://ericelliottjs.com) courses. Don't just learn JavaScript. Learn how to change the world.
+This was written for the ["Learn JavaScript with Eric Elliott"](https://ericelliottjs.com) courses. Don't just learn JavaScript. Learn how to change the world.
 
 
 ## Install
