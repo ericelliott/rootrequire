@@ -13,7 +13,7 @@ npm install --save rootrequire
 ```js
 var
   root = require('rootrequire'),
-  myLib = require(root + 'path/to/lib.js');
+  myLib = require(root + '/path/to/lib.js');
 ```
 
 ## Why?
