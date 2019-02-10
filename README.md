@@ -2,6 +2,10 @@
 
 Require files relative to your project root.
 
+
+## Status - DEPRECATED - use ES6 modules, instead
+
+
 ## Install
 
 ```
